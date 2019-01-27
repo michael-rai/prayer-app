@@ -1,0 +1,1 @@
+{"db":{"name":"db","connector":"memory"},"mysql":{"host":"localhost","port":3306,"database":"church","password":"idontcare","name":"mysql","user":"root","connector":"mysql"}}
